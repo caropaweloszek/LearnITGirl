@@ -1,0 +1,22 @@
+body {
+  background-image: url("img/background.png")!important;
+  background-repeat: repeat;
+  background-size: cover
+}
+#pages img {
+  width: 350px;
+  position: relative;
+  left:478px;
+  top: 115px;
+}
+#sumup img {
+  width: 350px;
+  position: relative;
+  left:654px;
+  top:114px;
+}
+#main img {
+  width: 600px;
+ 
+
+}

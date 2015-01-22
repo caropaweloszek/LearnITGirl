@@ -1,0 +1,73 @@
+body {
+  background-image: url("img/background.png")!important;
+  background-repeat: repeat;
+  background-size: cover;
+  font-family: Century Gothic;
+}
+img {
+  width: 350px;
+}
+#home img {
+  width: 100px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+#table img {
+  width: 100px;
+}
+#table {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  border-collapse: collapse;
+  text-align: center;
+}
+td {
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+}
+td.sum {
+  color: #e72125;
+  font-weight: bold;
+  border-top: 1px solid black;
+}
+th {
+  color: green;
+  border-bottom: 0.2px solid black;
+}
+th.sum {
+  color: #e72125;
+  font-weight: bold;
+}
+p {
+  color: #e72125;
+  font-size: 55px;
+  font-family: Century Gothic;
+  font-weight: bold
+}
+#addnewincome img {
+  width: 150px;
+  position: relative;
+  left: 10px;
+  bottom: 150px;
+
+}
+#addanex img {
+  width: 150px;
+  position: absolute;
+  left: 10px;
+  bottom: 150px;
+}
+#sum {
+  color: red;
+}
+.source {
+  text-align: left;
+  color: green;
+  font-weight: bold;
+  border-bottom: 1px solid black;
+}
+.lastrow {
+  border-bottom: 1px solid black;
+}

@@ -1,0 +1,39 @@
+body {
+  background-image: url("img/backgroundadd.png")!important;
+  background-repeat: repeat;
+  background-size: cover;
+  font-family: Century Gothic;
+}
+#addnewincome img {
+  width: 200px;
+}
+#back img {
+  width: 100px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+p {
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.name {
+  position: relative;
+  left: 762px;
+}
+table {
+  font-size: 15px;
+  color: green;
+  position: relative;
+  padding: 5px;
+  top: 80px;
+  left: 326px;
+}
+#submit img {
+  width: 100px;
+  position: relative;
+  top: 150px;
+  left: 780px;
+}
